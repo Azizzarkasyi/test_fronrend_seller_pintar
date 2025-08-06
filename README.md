@@ -4,7 +4,7 @@ Sebuah aplikasi blog platform modern dengan role-based authentication yang diban
 
 ## 🌟 Live Demo
 
-- **Development Server**: `https://test-fronrend-seller-pintar.vercel.app`
+- **Live Website**: `https://test-fronrend-seller-pintar.vercel.app`
 - **GitHub Repository**: `https://github.com/Azizzarkasyi/test_fronrend_seller_pintar`
 
 ## 🎯 Project Overview
